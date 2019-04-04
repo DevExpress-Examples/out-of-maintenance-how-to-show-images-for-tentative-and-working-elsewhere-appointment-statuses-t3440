@@ -2,10 +2,10 @@
 *Files to look at*:
 
 * [HorizontalAppointment.ascx](./CS/CustomStatusSample/AppointmentTemplates/HorizontalAppointment.ascx) (VB: [HorizontalAppointment.ascx](./VB/CustomStatusSample/AppointmentTemplates/HorizontalAppointment.ascx))
-* [HorizontalAppointment.ascx.cs](./CS/CustomStatusSample/AppointmentTemplates/HorizontalAppointment.ascx.cs) (VB: [HorizontalAppointment.ascx](./VB/CustomStatusSample/AppointmentTemplates/HorizontalAppointment.ascx))
-* [VerticalAppointment.ascx](./CS/CustomStatusSample/AppointmentTemplates/VerticalAppointment.ascx) (VB: [VerticalAppointment.ascx.vb](./VB/CustomStatusSample/AppointmentTemplates/VerticalAppointment.ascx.vb))
+* [HorizontalAppointment.ascx.cs](./CS/CustomStatusSample/AppointmentTemplates/HorizontalAppointment.ascx.cs) (VB: [HorizontalAppointment.ascx.vb](./VB/CustomStatusSample/AppointmentTemplates/HorizontalAppointment.ascx.vb))
+* [VerticalAppointment.ascx](./CS/CustomStatusSample/AppointmentTemplates/VerticalAppointment.ascx) (VB: [VerticalAppointment.ascx](./VB/CustomStatusSample/AppointmentTemplates/VerticalAppointment.ascx))
 * [VerticalAppointment.ascx.cs](./CS/CustomStatusSample/AppointmentTemplates/VerticalAppointment.ascx.cs) (VB: [VerticalAppointment.ascx.vb](./VB/CustomStatusSample/AppointmentTemplates/VerticalAppointment.ascx.vb))
-* **[Default.aspx](./CS/CustomStatusSample/Default.aspx) (VB: [Default.aspx.vb](./VB/CustomStatusSample/Default.aspx.vb))**
+* **[Default.aspx](./CS/CustomStatusSample/Default.aspx) (VB: [Default.aspx](./VB/CustomStatusSample/Default.aspx))**
 * [Default.aspx.cs](./CS/CustomStatusSample/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/CustomStatusSample/Default.aspx.vb))
 <!-- default file list end -->
 # How to show images for Tentative and Working Elsewhere appointment statuses
